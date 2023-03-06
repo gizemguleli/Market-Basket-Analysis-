@@ -3,6 +3,8 @@
 ## Table of Contents 
 
 * [DATA](#DATA )
+* [ANALYSE](#ANALYSE)
+* [CONCLUSION ](#CONCLUSION )
 
 
 
@@ -37,7 +39,7 @@ Calculates the relative and absolute frequency of occurrence of each item in the
 #### similarity & dissimilarity 
 
 
-### Conclusion
+## Conclusion
 
 When examining the co-occurrence of items in the dataset, we can see that there are many strong associations between items. For example, if a customer purchases citrus fruit, they are also likely to purchase tropical fruit, root vegetables, other vegetables, and whole milk. The lift values show us that these associations are stronger than what we would expect by chance.
 
