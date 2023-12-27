@@ -3,7 +3,7 @@
 ## Table of Contents 
 
 * [DATA](#DATA )
-* [ANALYSE](#ANALYSE)
+* [ANALYSIS](#ANALYSIS)
 * [CONCLUSION ](#CONCLUSION )
 
 
