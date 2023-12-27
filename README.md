@@ -36,7 +36,7 @@ Calculates the relative and absolute frequency of occurrence of each item in the
 
 #### Rules for closed itemsets
 
-#### similarity & dissimilarity 
+#### Similarity & Dissimilarity 
 
 
 ## Conclusion
